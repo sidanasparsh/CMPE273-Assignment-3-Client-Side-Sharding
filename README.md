@@ -77,16 +77,13 @@ of the nodes from the above list.
 **Response:**
 ###GET Responses from all the servers (Request id from 1-10):
 ```
-Response from: 127.0.0.1:3000 {"category": "office supplies", "decision_date": "", "description": "iPad for office use",
-
+> Response from: 127.0.0.1:3000 {"category": "office supplies", "decision_date": "", "description": "iPad for office use",
 "email": "foo2@bar.com", "estimated_costs": "800", "id": 1, "link": "http://www.apple.com/shop/buy-ipad/ipad-pro", "name":
-
 "Foo 2", "status": "Pending", "submit_date": "12-10-2016"}
 
 Response from: 127.0.0.1:3000 {"category": "office supplies", "decision_date": "", "description": "iPad for office use",
 
 "email": "foo2@bar.com", "estimated_costs": "800", "id": 2, "link": "http://www.apple.com/shop/buy-ipad/ipad-pro", "name":
-
 "Foo 2", "status": "Pending", "submit_date": "12-10-2016"}
 
 Response from: 127.0.0.1:3000 {"category": "office supplies", "decision_date": "", "description": "iPad for office use", "email": "foo2@bar.com", "estimated_costs": "800", "id": 3, "link": "http://www.apple.com/shop/buy-ipad/ipad-pro", "name": "Foo 2", "status": "Pending", "submit_date": "12-10-2016"}
